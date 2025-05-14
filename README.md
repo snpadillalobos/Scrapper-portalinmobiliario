@@ -1,3 +1,4 @@
+![Banner del scraper](banner.png)
 # 🏠 PortalInmobiliario Scraper
 
 🔍 De una necesidad concreta a una solución automatizada con Python e IA
