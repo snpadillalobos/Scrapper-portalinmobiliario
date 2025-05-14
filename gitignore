@@ -1,0 +1,11 @@
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuraciones locales
+.env
+chromedriver.exe
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+🔄 Procesando página 1...
+🔍 Se encontraron 25 tarjetas.
+✅ Página 1 procesada: 25 propiedades registradas. Total acumulado: 25
